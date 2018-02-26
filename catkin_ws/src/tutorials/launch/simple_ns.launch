@@ -1,0 +1,8 @@
+<launch>
+ <group ns="simple1">
+   <node pkg="tutorials" name="simple" type="simple" output="screen"/>
+ </group>
+ <group ns="simple2">
+    <node pkg="tutorials" name="simple" type="simple" output="screen" />
+ </group>
+</launch>

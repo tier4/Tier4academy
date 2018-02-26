@@ -1,0 +1,4 @@
+<launch>
+  <param name="parameter_test" type="str" value="test" />
+  <node pkg="tutorials" name="parameter" type="parameter" output="screen"/>
+</launch>

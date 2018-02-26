@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="tutorials" name="simple2" type="simple" output="screen"/>
+</launch>

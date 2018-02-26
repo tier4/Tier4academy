@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="tutorials" name="server" type="server" output="screen"/>
+  <node pkg="tutorials" name="client" type="client" output="screen"/>
+</launch>
